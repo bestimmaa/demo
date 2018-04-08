@@ -1,7 +1,7 @@
 {
   "assets": [
-    { "id": 1, "title": "Caterpillar 301.d", status:0 },
-    { "id": 2, "title": "Caterpillar 301.d", status:1 },
-    { "id": 3, "title": "Caterpillar 301.d", status:2 }
+    { "id": 1, "title": "Caterpillar 301.d", "status":0 },
+    { "id": 2, "title": "Caterpillar 301.d", "status":1 },
+    { "id": 3, "title": "Caterpillar 301.d", "status":2 }
   ]
 }
