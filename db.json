@@ -1,6 +1,6 @@
 {
   "assets": [
-    { "id": 1, "model": "301D", "manufacturer": "Caterpillar", "category":"Mini excavator", "status":0 },
+    { "id": 1, "model": "301D", "manufacturer": "CHRIS EXC", "category":"Mini excavator", "status":0 },
     { "id": 2, "model": "326L", "manufacturer": "Caterpillar", "category":"Medium excavator", "status":1 },
     { "id": 3, "model": "320", "manufacturer": "Caterpillar", "category":"Small excavator", "status":2 }
   ]
