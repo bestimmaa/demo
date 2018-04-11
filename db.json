@@ -1,7 +1,47 @@
 {
-  "assets": [
-    { "id": 1, "model": "301D", "manufacturer": "CHRIS EXC", "category":"Mini excavator", "status":0 },
-    { "id": 2, "model": "326L", "manufacturer": "Caterpillar", "category":"Medium excavator", "status":1 },
-    { "id": 3, "model": "320", "manufacturer": "Caterpillar", "category":"Small excavator", "status":2 }
-  ]
+    "assets": [{
+            "status": true,
+            "message": "This is a message",
+            "data": {
+                "assets": [{
+                        "id": 1,
+                        "name": "301D",
+                        "rental_station_id": 1,
+                        "description": "The Cat® 301.7D gives you a blend of power, control and stability to make your working day easier and more productive.",
+                        "image_url": "http://www.mondodeibimbi.com/images/medium/2432_MED.jpg",
+                        "brand": "Caterpillar",
+                        "inventory_id": "EXC1",
+                        "category": "Mini excavator",
+                        "created_at": "2018-04-10T04:58:18+00:00",
+                        "updated_at": "2018-04-10T04:58:18+00:00"
+                    },
+                    {
+                        "id": 2,
+                        "name": "302D",
+                        "rental_station_id": 1,
+                        "description": "The Cat® 302D gives you a blend of power, control and stability to make your working day easier and more productive.",
+                        "image_url": "http://www.mondodeibimbi.com/images/medium/2432_MED.jpg",
+                        "brand": "Caterpillar",
+                        "inventory_id": "EXC1",
+                        "category": "Mini excavator",
+                        "created_at": "2018-04-10T04:58:18+00:00",
+                        "updated_at": "2018-04-10T04:58:18+00:00"
+                    }
+                ],
+                "asset": {
+                    "id": 1,
+                    "name": "301D",
+                    "rental_station_id": 1,
+                    "description": "The Cat® 301.7D gives you a blend of power, control and stability to make your working day easier and more productive.",
+                    "image_url": "http://www.mondodeibimbi.com/images/medium/2432_MED.jpg",
+                    "brand": "Caterpillar",
+                    "inventory_id": "EXC1",
+                    "category": "Mini excavator",
+                    "created_at": "2018-04-10T04:58:18+00:00",
+                    "updated_at": "2018-04-10T04:58:18+00:00"
+                }
+            }
+        }
+
+    ]
 }
