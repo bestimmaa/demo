@@ -1,5 +1,5 @@
 {
-    "assets": [{
+    "assets": {
             "status": true,
             "message": "This is a message",
             "data": {
@@ -42,6 +42,4 @@
                 }
             }
         }
-
-    ]
 }
