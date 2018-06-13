@@ -2,13 +2,25 @@
     "1": {
         "status": true,
         "message": "This is a message",
-        "data": {},
-        "next_page":""
+        "data": {
+            "title":"title 1"
+        },
+        "next_page":"https://my-json-server.typicode.com/bestimmaa/demo/2"
     },
     "2": {
         "status": true,
         "message": "This is a message",
-        "data": {},
-        "next_page":""
+        "data": {
+            "title":"title 2"
+        },
+        "next_page":"https://my-json-server.typicode.com/bestimmaa/demo/3"
+    },
+    "3": {
+        "status": true,
+        "message": "This is a message",
+        "data": {
+            "title":"title 3"
+        },
+        "next_page":null
     }
 }
